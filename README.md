@@ -63,7 +63,7 @@
 
 ---
 
-### 💡 Quote to Live By:
+### Special Message💬:
 <p align="center">
   <b>"Shoutout to Shaula:D"</b>
 </p>
