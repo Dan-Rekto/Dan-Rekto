@@ -1,17 +1,25 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydDduMDhuNmozYzg4aGJiNDJlazBieHliMWlieHV2eXllNnVmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkzASXWphfkQ5CF6ny/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydDduMDhuNmozYzg4aGJiNDJlazBieHliMWlieHV2eXllNnVmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkzASXWphfkQ5CF6ny/giphy.gif" width="450" />
 </p>
 
-<h1 align="center">Hey fellas! 👋 I'm Danish Fattah Azizi</h1>
-<h3 align="center">Welcome to my GitHub 🚀</h3>
+<h1 align="center">Hi there 👋, I'm Danish Fattah Azizi</h1>
+<h3 align="center">Coding my way through Machine Learning, Android, and IoT 🌐⚡</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dan-Rekto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Developer-Open%20to%20Collaboration-blueviolet?style=flat&logo=github" alt="Collaboration Badge" />
+</p>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently working on **[Baswara - A Hoax Detection App for OPSI 2025](https://github.com/Dan-Rekto/BaswaraRekto)**  
-- 🌱 Passionate about **Machine Learning, Android Development, and IoT Technologies**  
-- 📫 Reach me via email: **hubertcollosus@gmail.com**  
+- 🔭 Currently building **[Baswara](https://github.com/Dan-Rekto/BaswaraRekto)** — An innovative hoax detection app for OPSI 2025 📱
+- 🌱 Constantly learning **Machine Learning, Android Development (Jetpack Compose & Kotlin), IoT Automation**
+- ✉️ You can reach me at **hubertcollosus@gmail.com**
 
 ---
 
@@ -55,6 +63,7 @@
 
 ---
 
+### 💡 Quote to Live By:
 <p align="center">
-  <b>“Code, Build, Break, Fix, Repeat.”</b>
+  <b>"Shoutout to Shaula:D"</b>
 </p>
