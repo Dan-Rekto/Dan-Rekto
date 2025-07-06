@@ -1,5 +1,5 @@
 <h1 align="center">Yoo😀, Im Danish Fattah Azizi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi Shaula</h3>
 
 - 🔭 I’m currently working on [Baswara, for OPSI 2025](https://github.com/Dan-Rekto/BaswaraRekto)
 
