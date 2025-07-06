@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydDduMDhuNmozYzg4aGJiNDJlazBieHliMWlieHV2eXllNnVmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkzASXWphfkQ5CF6ny/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydDduMDhuNmozYzg4aGJiNDJlazBieHliMWlieHV2eXllNnVmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkzASXWphfkQ5CF6ny/giphy.gif" width="1000" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Danish Fattah Azizi</h1>
