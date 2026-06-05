@@ -7,8 +7,8 @@
 ---
 
 ### About Me:
-- Constantly learning **Machine Learning, Android Development (XML & Kotlin), IoT Automation**
 - An undergraduate **Environmental Engineering** student at ITS
+- Constantly learning **Machine Learning, Android Development (XML & Kotlin), IoT Automation**
 - You can reach me at **eksakdev@gmail.com**
 
 ---
