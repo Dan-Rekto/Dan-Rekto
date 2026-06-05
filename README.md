@@ -17,18 +17,19 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently building **[Baswara](https://github.com/Dan-Rekto/BaswaraRekto)** — An innovative hoax detection app for OPSI 2025 📱
 - 🌱 Constantly learning **Machine Learning, Android Development (Jetpack Compose & Kotlin), IoT Automation**
-- ✉️ You can reach me at **hubertcollosus@gmail.com**
+- ✉️ You can reach me at **eksakdev@gmail.com**
 
 ---
 
 ### 📲 Connect with Me:
 <p align="left">
-  <a href="https://instagram.com/@denisjagobos" target="_blank">
+  <a href="https://instagram.com/@eksak.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
+
+
 
 ---
 
@@ -52,13 +53,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dan-Rekto&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dan-Rekto&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Rekto&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
