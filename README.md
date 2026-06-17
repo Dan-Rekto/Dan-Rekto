@@ -20,7 +20,17 @@
   </a>
 </p>
 
+---
 
+### GitHub Stats:
+<p align="center">
+  <a href="https://github.com/Dan-Rekto">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanishF1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dan-Rekto's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dan-Rekto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishF1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
@@ -38,5 +48,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-</p>
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
 
+  </a>
+</p>
