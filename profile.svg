@@ -5,66 +5,85 @@
 .value { fill: #a5d6ff; }
 .cc { fill: #616e7f; }
 .header { fill: #c9d1d9; font-weight: bold; }
-.ascii { fill: #c9d1d9; font-size: 11px; }
+.ascii { fill: #c9d1d9; font-size: 8px; }
 text, tspan { white-space: pre; }
 </style>
 <rect width="985px" height="600px" fill="#161b22" rx="15"/>
 
-<!-- ASCII Logo Side -->
-<text x="15" y="25" class="ascii">
-<tspan x="15" y="25">                                               -:#                                              </tspan>
-<tspan x="15" y="42">                                               . :                                              </tspan>
-<tspan x="15" y="59">                                          =-..:..=*=+===                                        </tspan>
-<tspan x="15" y="76">                                     =:.    ..::.=%       +=+                                   </tspan>
-<tspan x="15" y="93">                                  =.....:-=    . - *====*    ===                                </tspan>
-<tspan x="15" y="110">                                -.  .=         : *        -*    =+                              </tspan>
-<tspan x="15" y="127">                              -...:*           :.*          +==   =                             </tspan>
-<tspan x="15" y="144">                             ....+         #-..:.* *==+        =   *+                           </tspan>
-<tspan x="15" y="161">                            ...:       +:.. ..::.+=     ==      =+  *=                          </tspan>
-<tspan x="15" y="178">                           ...-       :...=    :.    ==   +      =+  *=                         </tspan>
-<tspan x="15" y="195">                          : .-      +...=              +=   =     =   =                         </tspan>
-<tspan x="15" y="212">                         -. .=      ..:                  =   =     =   =                        </tspan>
-<tspan x="15" y="229">                         -  :      :..+       -..=+       =  =      =  =                        </tspan>
-<tspan x="15" y="246">                      :........::::::---=    ....= *    =+*   ====+=    ++==                    </tspan>
-<tspan x="15" y="263">                      -::-----=+++++==       .. .= *    =++   =====+    **++                    </tspan>
-<tspan x="15" y="280">                         -. :      -..-       -::**       =  =     *=  +                        </tspan>
-<tspan x="15" y="297">                         =. .=      ...+                 =  *=     =   -                        </tspan>
-<tspan x="15" y="314">                          - .:       ...-              ==  *=     +   =                         </tspan>
-<tspan x="15" y="331">                           ...:       -...:+   :.   +=+   =      =#  +=                         </tspan>
-<tspan x="15" y="348">                            ...:#       =:.. ..:.*     ==+      =*  +=                          </tspan>
-<tspan x="15" y="365">                             :. .=          ==-:.**-=+        +=   ==                           </tspan>
-<tspan x="15" y="382">                              =.  .-           :.*          ==   =-                             </tspan>
-<tspan x="15" y="399">                                =.  ..+        :.*       +==   #-                               </tspan>
-<tspan x="15" y="416">                                  *:.....:--*  ..--=+==+     ==                                 </tspan>
-<tspan x="15" y="433">                                     +-:..  . :..=#      *==                                    </tspan>
-<tspan x="15" y="450">                                           #=--..-*+===                                         </tspan>
-<tspan x="15" y="467">                                               . :                                              </tspan>
-<tspan x="15" y="484">                                                *                                               </tspan>
+<!-- ASCII Logo Side (48 Lines, Vertically Centered at Y=300) -->
+<text x="5" y="65" class="ascii">
+<tspan x="5" y="65">                                  .:--====--:..                        </tspan>
+<tspan x="5" y="75">                               .--============--  .                    </tspan>
+<tspan x="5" y="85">                            .:----==+**++++++===--.                    </tspan>
+<tspan x="5" y="95">                    .:--===++++***+==+****+**+++==---                  </tspan>
+<tspan x="5" y="105">                 .:-=====+***#######==++********++====-:               </tspan>
+<tspan x="5" y="115">               .:-==-====+*#########*+=+=*********++=++==              </tspan>
+<tspan x="5" y="125">              :-==--====+*###########*+===++++*******+====             </tspan>
+<tspan x="5" y="135">             :===--===++*##*********#**++++++***++*++++++==            </tspan>
+<tspan x="5" y="145">            :========+****#****+++*+****+++******++**+++++=-           </tspan>
+<tspan x="5" y="155">           .-===+==++*++****+====++++***#*****+*#*****+++++=-          </tspan>
+<tspan x="5" y="165">          :==+=+++++**+***++=---===++**###****+*****#****+++=-         </tspan>
+<tspan x="5" y="175">        .-===++++++**+*++++==------=+***####*#**+*********++===        </tspan>
+<tspan x="5" y="185">       .-===+++*********+++=---:-:--=**########*+*#####****++++-       </tspan>
+<tspan x="5" y="195">      .-=+++++**********+++=--:::::--***#####*##**#####*##*+++++.      </tspan>
+<tspan x="5" y="205">     .==+*+++************+==---:::::-=**#####+###**####*#***++++=      </tspan>
+<tspan x="5" y="215">    .-:++++*+***#********===-:::::::-=***#%#######*######***+***+:     </tspan>
+<tspan x="5" y="225">   ::.=****+*#*#**+*++***==--::::::::-+*###%##*#*#*########***+*+=     </tspan>
+<tspan x="5" y="235">   ::-+******###*+*+++**+==-::::::::::=+##*#%####*+#######*#***+++     </tspan>
+<tspan x="5" y="245">  .--++*****#*##+*+=++++==-::::::::::::==***##%###**####****+++*++=    </tspan>
+<tspan x="5" y="255">  .-=+**#*#**##**+=++**+==---::::::::::-=+*#*######**#*+++**#**+==-    </tspan>
+<tspan x="5" y="265">  :-+*###****###*++**####**++==-:::::::-=+**####%########**+++++===-.  </tspan>
+<tspan x="5" y="275">  .-+*#***#*####++++++===--=====-::::--====+++*****####**++++++++===-  </tspan>
+<tspan x="5" y="285">  .=*##*####*##*+==++===---=====-::::--========++++++**####********++=: </tspan>
+<tspan x="5" y="295">  .+***###***##+==+++**+****++=--:::::-==+=+####***+++**##********+==: </tspan>
+<tspan x="5" y="305">  ++:****+**##*+=::--==-=*=:---=-:...:--=++--*+:-====--=+##*+++++++=:. </tspan>
+<tspan x="5" y="315"> .--.+***+**###*-::::::---=--::::-=-:::--+:::-----:::---==###**++==+=:  </tspan>
+<tspan x="5" y="325"> .=+**++**#####*::::::::::-:...:::-:..::::.....::::::::--==#####**++=-. </tspan>
+<tspan x="5" y="335"> -+**- .+#*#%%%#-:.:::::::.....==--:....:--..........::::+=#%##%##*++-. </tspan>
+<tspan x="5" y="345"> :++:  =+*#%%%%%-:.............:.=:     -...        ..:::+#%%%####**--:.</tspan>
+<tspan x="5" y="355"> -+=-   -##%%%%%*-:.........::-:=..      =.:..       ...:#%%%%###*=  :  </tspan>
+<tspan x="5" y="365"> +: -   =*##%%%%%:.:......:::-=-.....     ::::..     ..:-%%#%###*-      </tspan>
+<tspan x="5" y="375"> .   :::**##%%%%%=:..:::------=--=-----=-..---::....::..*%%####*=:      </tspan>
+<tspan x="5" y="385">     :+++###%%%%%%-:.....:::::::::--------:::::::::....-%%%##**++-.     </tspan>
+<tspan x="5" y="395">    .:=+**##%%%%%%*::......::...::::::..   ...........:*%%%%#*+===-.    </tspan>
+<tspan x="5" y="405">     -+**####%%%%%%+:::..::::-::::-:..:.. ..::...:...:+%%%%%%#*+:..     </tspan>
+<tspan x="5" y="415">    .=***####%%%%%%%+-:::::-=*==++=======+==*=-:....:=%%%%%%%##*+=.     </tspan>
+<tspan x="5" y="425">    :+****##%%%%%%%%%#--:::------::::.....::---:::::*%%%%%%%###**+-     </tspan>
+<tspan x="5" y="435">    =+****##%%%%%%%%%%%+=---:::--==+=====-:::::---=%%#%%%%%####*++++:   </tspan>
+<tspan x="5" y="445">   -=++*#*##%%%%%%%%%%%%#+=--::::::::::.....:::-+%%%####%%#%###*+-=+=-  </tspan>
+<tspan x="5" y="455">   :.:+**####%%%%%%%%%%%%%%*=-:::::.........::+%%%%#*#**#%####****++=-=:</tspan>
+<tspan x="5" y="465">      =*#**##%%%%%%%%%%%%%%%%*==-----:::::--+#%%%%%###**#%#####*+++++++=</tspan>
+<tspan x="5" y="475">   .:+***######%%%%%%%%%%%%%%%*+++========++*#%#%%######%%%######*++*+++</tspan>
+<tspan x="5" y="485"> ****######%#####%%%%%%%%%%%%%#++=========++#%%#%#######%%%%#######**+++</tspan>
+<tspan x="5" y="495"> ##*##%%%##%%%####%%%%%%%%%%%%#*+=========+*#%%########%%%%%%%#######**+</tspan>
+<tspan x="5" y="505"> #####%%%%%%%%%%####%%%%%%%%%%#+=--------=+*#%%####%###%%%%%%%%%#####*#*</tspan>
+<tspan x="5" y="515"> #######%%%%%%#%%%#####%%%%%%%#*=------:-==*#%%%####%%%%%%%%%%###**##*##</tspan>
+<tspan x="5" y="525"> ######%%###%%%###%%%##%%%%%%%*+=--:::::--=+##%%%###%%%%%%%%%%##*****+**</tspan>
+<tspan x="5" y="535"> #########%###%%%%###%%%%%%%%%*==-:::::-:-=+**%%%%##%%%%%%%%%#%#**++#*+=</tspan>
 </text>
 
 <!-- Fetch Info Side -->
-<text x="470" y="35" class="header">
-<tspan x="470" y="35">danish@embedded</tspan> <tspan class="cc">-————————————————————————————————————————————-—-</tspan>
-<tspan x="470" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, Windows, RTOS</tspan>
-<tspan x="470" y="85" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Hardware &amp; Systems Engineering</tspan>
-<tspan x="470" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">IoT &amp; Embedded Systems Specialist</tspan>
-<tspan x="470" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode, PlatformIO, STM32CubeIDE</tspan>
-<tspan x="470" y="160" class="cc">. </tspan>
-<tspan x="470" y="185" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C, C++, Python</tspan>
-<tspan x="470" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">ESP32, STM32, Arduino, Raspberry Pi</tspan>
-<tspan x="470" y="235" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">JSON, YAML, LaTeX, Markdown, HTML/CSS</tspan>
-<tspan x="470" y="260" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Indonesian, English</tspan>
-<tspan x="470" y="285" class="cc">. </tspan>
-<tspan x="470" y="310" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Circuit Design, Sensor Integration, SCADA</tspan>
-<tspan x="470" y="335" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Computer Vision, TinyML, Automation</tspan>
-<tspan x="470" y="360" class="cc">. </tspan>
-<tspan x="470" y="385" class="header">- Contact</tspan> <tspan class="cc">-——————————————————————————————————————————————-—-</tspan>
-<tspan x="470" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">emailkamu@example.com</tspan>
-<tspan x="470" y="435" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">USERNAME_LINKEDIN</tspan>
-<tspan x="470" y="460" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">USERNAME_KAMU</tspan>
-<tspan x="470" y="485" class="cc">. </tspan>
-<tspan x="470" y="510" class="header">- Profile Status</tspan> <tspan class="cc">-————————————————————————————————————————-—-</tspan>
-<tspan x="470" y="535" class="cc">. </tspan><tspan class="key">Architecture</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">IoT Hardware-Software Co-Design</tspan>
-<tspan x="470" y="560" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Building Smart &amp; Scalable Systems</tspan>
+<text x="360" y="35" class="header">
+<tspan x="360" y="35">danish@dan-eksakdev</tspan> <tspan class="cc">-————————————————————————————————————————————-—-</tspan>
+<tspan x="360" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, Windows 10</tspan>
+<tspan x="360" y="85" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Linux 7.0.0-30-generic</tspan>
+<tspan x="360" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Lubuntu &amp; Zorin OS</tspan>
+<tspan x="360" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode, PyCharm, Android Studio, Intelij Idea</tspan>
+<tspan x="360" y="160" class="cc">. </tspan>
+<tspan x="360" y="185" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C++, Python, Kotlin</tspan>
+<tspan x="360" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">ESP32, Arduino, Raspberry Pi</tspan>
+<tspan x="360" y="260" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Indonesian, English</tspan>
+<tspan x="360" y="285" class="cc">. </tspan>
+<tspan x="360" y="310" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Circuit Design, Sensor Integration</tspan>
+<tspan x="360" y="335" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Computer Vision, Automation, Android Development</tspan>
+<tspan x="360" y="360" class="cc">. </tspan>
+<tspan x="360" y="385" class="header">- Contact</tspan> <tspan class="cc">-——————————————————————————————————————————————-—-</tspan>
+<tspan x="360" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">eksakdev@gmail.com</tspan>
+<tspan x="360" y="435" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">coming soon...</tspan>
+<tspan x="360" y="460" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">DanishF1</tspan>
+<tspan x="360" y="485" class="cc">. </tspan>
+<tspan x="360" y="510" class="header">- Profile Status</tspan> <tspan class="cc">-————————————————————————————————————————-—-</tspan>
+<tspan x="360" y="535" class="cc">. </tspan><tspan class="key">Architecture</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">IoT Hardware-Software Co-Design</tspan>
+<tspan x="360" y="560" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Busy</tspan>
 </text>
 </svg>
