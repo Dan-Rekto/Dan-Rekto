@@ -77,7 +77,7 @@ text, tspan { white-space: pre; }
 <tspan x="360" y="335" class="header">- Contact</tspan> <tspan class="cc">-——————————————————————————————————————————————-—-</tspan>
 <tspan x="360" y="360" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">eksakdev@gmail.com</tspan>
 <tspan x="360" y="385" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">coming soon...</tspan>
-<tspan x="360" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">DanishF1</tspan>
+<tspan x="360" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">github.com/DanishF1/</tspan>
 <tspan x="360" y="460" class="header">- Profile Status</tspan> <tspan class="cc">-————————————————————————————————————————-—-</tspan>
 <tspan x="360" y="485" class="cc">. </tspan><tspan class="key">Architecture</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">IoT Hardware-Software Co-Design</tspan>
 <tspan x="360" y="510" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Busy</tspan>
