@@ -68,14 +68,14 @@ text, tspan { white-space: pre; }
 <tspan x="360" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, Windows 10</tspan>
 <tspan x="360" y="85" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Linux 7.0.0-30-generic</tspan>
 <tspan x="360" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Lubuntu &amp; Zorin OS</tspan>
-<tspan x="360" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode, PyCharm, Android Studio, Intelij Idea</tspan>
+<tspan x="360" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode, PyCharm, Android Studio</tspan>
 <tspan x="360" y="160" class="cc">. </tspan>
 <tspan x="360" y="185" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C++, Python, Kotlin</tspan>
 <tspan x="360" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">ESP32, Arduino, Raspberry Pi</tspan>
 <tspan x="360" y="260" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Indonesian, English</tspan>
 <tspan x="360" y="285" class="cc">. </tspan>
 <tspan x="360" y="310" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Circuit Design, Sensor Integration</tspan>
-<tspan x="360" y="335" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Computer Vision, Automation, Android Development</tspan>
+<tspan x="360" y="335" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Automation &amp; IoT, Android Development</tspan>
 <tspan x="360" y="360" class="cc">. </tspan>
 <tspan x="360" y="385" class="header">- Contact</tspan> <tspan class="cc">-——————————————————————————————————————————————-—-</tspan>
 <tspan x="360" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">eksakdev@gmail.com</tspan>
